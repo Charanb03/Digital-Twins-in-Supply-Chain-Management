@@ -41,7 +41,14 @@ This project leverages Digital Twins technology to create real-time virtual simu
 - Model digital twins of supply chain components  
 - Run real-time simulations to monitor performance  
 - Use predictive analytics for forecasting and risk mitigation  
-- Optimize resource allocation dynamically  
+- Optimize resource allocation dynamically
+
+
+🧠 Author
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/charan28)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Charanb03)  
+📧 charannb3@gmail.com  
 
 ---
 
@@ -54,8 +61,7 @@ matplotlib
 simpy  # or any simulation library  
 scikit-learn  # for predictive analytics
 
-📸 Visuals
-<img src="results_dashboard.png" alt="Simulation Results Dashboard" width="500"/>
+
 
 
 
